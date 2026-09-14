@@ -1,39 +1,38 @@
-# Mein Portfolio
+# Mein IPT1 ePortfolio
 
-Willkommen in meinem Portfolio-Repository. Hier dokumentiere ich meine Lernfortschritte und Arbeiten aus dem Modul IPT1.
+Willkommen in meinem ePortfolio für das Modul IPT1.<br><br> In diesem Repository dokumentiere ich meinen Lernfortschritt, meine Arbeiten und meine Erfahrungen während des Moduls.
 
 ## Über mich
 
-Ich nutze dieses Repository, um meine bisherigen Arbeiten und neu gelernten Fähigkeiten zu sammeln und zu dokumentieren.
+Ich bin aktuell dabei, die Grundlagen von Git, GitHub und Markdown zu lernen. Dieses Repository nutze ich, um meine Fortschritte und Lernnachweise zu dokumentieren.
 
 ## Meine aktuellen Kenntnisse
 
-* Git und GitHub
-* Markdown
-* Arbeiten mit Repositories
-* Commits erstellen
-* Dateien über GitHub verwalten
+- Git und GitHub
+- GitHub Repositories
+- Commits
+- Markdown
+- README-Dateien
+- Lernjournal
 
 ## Markdown-Beispiel
 
-Markdown kann verwendet werden, um Texte übersichtlich zu formatieren.
+Markdown ermöglicht es, Texte einfach und übersichtlich zu formatieren.
 
-```markdown
 # Überschrift
 
-Das ist ein **fetter Text**.
+Das ist **fetter Text**.
 
 - Erster Punkt
 - Zweiter Punkt
-```
 
 ## Nützlicher Link
 
-Hier ist ein tolles Video  [GitHub Markdown-Dokumentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Hier ist ein tolles Video [Tolles Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ## IPT1-Lernnachweis
 
-Im Modul IPT1 habe ich bisher die Grundlagen von **Git und GitHub** kennengelernt. Ich weiss, wie man ein Repository verwendet, Änderungen an Dateien vornimmt und diese mit Commits speichert. Aktuell beschäftige ich mich mit **Markdown** und lerne, wie man README-Dateien übersichtlich strukturiert und formatiert.
+Im Modul IPT1 habe ich die ersten Grundlagen von *Git und GitHub* kennengelernt. Dabei habe ich gelernt, was ein Repository ist und wie Änderungen mit Commits gespeichert werden. Aktuell beschäftige ich mich mit Markdown und lerne, wie man eine README-Datei übersichtlich gestaltet.
 
 ## Lernziele
 
@@ -41,3 +40,7 @@ Im Modul IPT1 habe ich bisher die Grundlagen von **Git und GitHub** kennengelern
 * [x] Git-Befehle besser verstehen
 * [x] GitHub für meine Projekte nutzen
 * [ ] Ein Ferrari besitzen
+
+## Lernjournal
+
+Mein fortlaufendes Lernjournal befindet sich in der Datei [Lernjournal.md](Lernjournal.md).
